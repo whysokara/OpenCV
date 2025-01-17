@@ -1,1 +1,1 @@
-print()"Welcome to OpenCV")
+print("Welcome to OpenCV")
