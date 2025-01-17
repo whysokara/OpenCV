@@ -1,3 +1,5 @@
 Course : https://eylearning.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/learn/lecture/12257454?start=1#overview
 Slides : https://drive.google.com/drive/folders/1aCE-1dmPy-KUGQ9C99kx35U8tkpAnrCp?usp=sharing
 Student Channel : https://www.youtube.com/watch?v=bkH89OJ001M
+
+To activate the provided env : conda env -f <fileName>
