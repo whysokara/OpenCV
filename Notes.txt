@@ -3,3 +3,18 @@ Slides : https://drive.google.com/drive/folders/1aCE-1dmPy-KUGQ9C99kx35U8tkpAnrC
 Student Channel : https://www.youtube.com/watch?v=bkH89OJ001M
 
 To activate the provided env : conda env -f <fileName>
+
+
+
+
+Numpy Notes:
+np.random.seed(101) --- ensure sequence of random generated array
+np.random.randint(0,100,10)
+
+Find Min : arr.min()
+Find Min index : arr.argmin()
+Same for max
+
+to know shape : arr.shape
+to reshape same arrray : arr.reshape(2,3)
+np.arange(0,100).reshape(20,5)
